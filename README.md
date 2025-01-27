@@ -1,21 +1,5 @@
 # My-Projects-2024
 This repository is a compilation of a few project that i did in 2024
-## First Adventure Game
-
-**Description**
-A small Project that i coded in Godot with the Help of Brackey's "How to make a Video Game in Godot" tutorial
-
-**technologies Used**
-- **Programming Language: GDScript
-
-**Features**
-- Movement with WASD and Arrow keys
-- Coin collecting and a counter at the end of the map
-- One slime enemy
-
-**Challenges Overcome:**
-- Learning a complelty new Engine after working with Unity for a while
-- Understanding the fundamentals of 2D Games
 
 ## PDF to MP3 Converter
 
